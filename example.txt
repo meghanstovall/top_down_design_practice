@@ -1,0 +1,22 @@
+Top down design example - Walking a dog!
+
+1 Find your dog
+  1.1 Get up from where you are
+  1.2 Walk throughout house
+  1.3 Look through each room
+  1.4 Call dog's name
+2 Ask dog if they want to go for a walk
+3 Put leash on dog
+  3.1 Find the leash
+  3.2 Pick up the leash
+  3.3 Tell dog to sit
+  3.4 Grab dog's collar
+  3.5 Grab leashes hook
+  3.6 Hook the leash to the dogs collar
+4 Put on shoes
+5 Open door
+  5.1 Unlock door
+  5.2 Grab handle
+  5.3 Turn handle
+6 Take dog outside
+7 Walk dog outside 
