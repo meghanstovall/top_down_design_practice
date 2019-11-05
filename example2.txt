@@ -1,0 +1,26 @@
+Using top down design, write out a login form for a website. The form has two inputs and a submit button.
+One input to enter their email, and another input to enter their password.
+
+In order to submit the form, the email must be valid and their password must be longer than 8 characters.
+
+The user should see an error message if they are unable to submit the form
+
+
+1 Go to website
+  1.1 Type in web url
+  1.2 Hit enter
+2 Enter login information
+  2.1 Enter email into first input slot
+  2.2 Enter password into second input slot
+  2.4 Check password is valid
+3 Click submit form button
+  3.1 Check email is valid
+    if email is valid
+      3.1.1 proceed to step 3.2
+    if email is invalid
+      3.1.1 Error message: Email address invalid, try again
+  3.2 Check password is valid
+    if password is longer than 8 characters
+      3.2.1 Valid password, submit form
+    if password is less than 8 characters
+      3.2.1 Error message: Invalid password, must be at least 8 characters wrong
